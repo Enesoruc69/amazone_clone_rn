@@ -211,7 +211,7 @@ npm start -- --reset-cache
 
 ## 📸 Proje Önizlemesi
 
-![Amazon Clone App](.image.png)
+![Amazon Clone App](image.png)
 
 
 
